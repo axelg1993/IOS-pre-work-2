@@ -33,7 +33,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-I had trouble with understanding the logic behind this app, at first because I am new to programming and coding in general. I've had really little exposure to python my freshman year in college but that's it. The video however was straight and to the point.
+* I had trouble with understanding the logic behind this app, at first because I am new to programming and coding in general. I've had really little exposure to python my freshman year in college but that's it. The video however was straight and to the point.
 ## License
 
     Copyright [2015] [Axel Guzman]
