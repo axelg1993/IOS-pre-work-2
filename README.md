@@ -33,10 +33,10 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
-
+I had trouble with understanding the logic behind this app, at first because I am new to programming and coding in general. I've had really little exposure to python my freshman year in college but that's it. The video however was straight and to the point.
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2015] [Axel Guzman]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
